@@ -15,9 +15,7 @@
 
 ### 注意
 
-我们于 20251216 将 F.56 固件内置于 LineageOS 19.1 构建中，因此不再需要为 LineageOS 19.1 单独安装固件。
-
-对于先前版本及未来的 LineageOS 21 构建，请按照以下步骤操作：
+除非另有说明已内置固件，否则请按照以下步骤操作：
 
 1. 下载并安装 [PCAM00_11.F.56_3560_202501091908](https://gauss-compotacostauto-cn.allawnfs.com/remove-a4b644e2cb7610d9f8f64496914ff4b9/component-ota/25/01/13/199341c33a654d918cd8bc77a24bd42a.zip) 固件。
 2. 在自定义 Recovery（如 TWRP）中刷入官方固件文件。
