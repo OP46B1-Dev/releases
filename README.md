@@ -6,6 +6,13 @@
 
 我们的 LineageOS 基于 PCAM00_11.F.56_3560_202501091908 进行构建。请确保您的设备已更新到此固件版本，否则我们不会处理你的问题。
 
+## 设备解锁
+
+对于此设备，您需要使用 OPPO 官方的深度测试 APP 来解锁设备的 Bootloader，按照设备运行的操作系统版本分为两种情况：
+
+1. ColorOS 11.1 [官方](https://img-oppo-cn-test.oss-cn-shenzhen.aliyuncs.com/uploads/common/2021/02/10/16060363801.apk) [镜像](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.0.1.apk)
+2. ColorOS 7.1 [官方](https://imgfs.oppo.cn/uploads/common/Reno深度测试.apk) [镜像](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.1.0.apk)
+
 ### 注意
 
 我们于 20251216 将 F.56 固件内置于 LineageOS 19.1 构建中，因此不再需要为 LineageOS 19.1 单独安装固件。
