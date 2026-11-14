@@ -10,8 +10,12 @@
 
 对于此设备，您需要使用 OPPO 官方的深度测试 APP 来解锁设备的 Bootloader，按照设备运行的操作系统版本分为两种情况：
 
-1. ColorOS 11.1 [官方](https://img-oppo-cn-test.oss-cn-shenzhen.aliyuncs.com/uploads/common/2021/02/10/16060363801.apk) [镜像](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.0.1.apk)
-2. ColorOS 7.1 [官方](https://imgfs.oppo.cn/uploads/common/Reno深度测试.apk) [镜像](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.1.0.apk)
+|        ColorOS 版本        |                             官方                             |                             镜像                             |
+| :------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ColorOS 11.1<sup>[1]</sup> | [link](https://img-oppo-cn-test.oss-cn-shenzhen.aliyuncs.com/uploads/common/2021/02/10/16060363801.apk) | [link](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.0.1.apk) |
+|        ColorOS 7.1         | [link](https://imgfs.oppo.cn/uploads/common/Reno深度测试.apk) | [link](https://raw.githubusercontent.com/OP46B1-Dev/releases/refs/heads/main/unlock/DeepTest_1.1.0.apk) |
+
+**[1]** 仅支持已申请过深度测试的机器开始深度测试
 
 ### 注意
 
